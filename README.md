@@ -74,5 +74,3 @@
 </a>
   <!-- Add more icons here -->
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirkcit0&show_icons=true&locale=en&layout=compact" alt="kirkcit0" /></p>
