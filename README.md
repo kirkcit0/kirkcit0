@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋, I'm Kirk Lefevre</h1>
 <h2 align="center">A passionate software engineer and technology enthusiast. Welcome to my GitHub profile!</h2>
-<h3 align="center">As a lifelong enthusiast of technology, my passion for software development has been a driving force in my journey. I thrive on continuous learning and growth, evident in the multitude of personal programming projects I've undertaken over the years. With expertise spanning front-end technologies like HTML/CSS, JavaScript, to back-end languages including Java, Python, C, and C#, I bring a versatile skillset honed through hands-on experience. Now, I'm eager to leverage my knowledge and abilities in a dynamic workspace, contributing to impactful projects and furthering my professional development in the field of software engineering.</h3>
+<h4 align="center">As a lifelong enthusiast of technology, my passion for software development has been a driving force in my journey. I thrive on continuous learning and growth, evident in the multitude of personal programming projects I've undertaken over the years. With expertise spanning front-end technologies like HTML/CSS, JavaScript, to back-end languages including Java, Python, C, and C#, I bring a versatile skillset honed through hands-on experience. Now, I'm eager to leverage my knowledge and abilities in a dynamic workspace, contributing to impactful projects and furthering my professional development in the field of software engineering.</h4>
 <!-- <hr> -->
+
+<h2 align="center">🚀About me</h2>
 
 - 🎓 I’m currently studying **Computer Science at the University of Central Florida**
 
