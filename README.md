@@ -65,12 +65,6 @@
   <!-- Add more icons here -->
 </p>
 
-<h2 align="left">Mobile Development Tools:</h2>
-<!-- <hr> -->
-<p align="left"> 
-  <!-- Add more icons here -->
-</p>
-
 <h2 align="left">Other Tools:</h2>
 <!-- <hr> -->
 <p align="left"> 
