@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kirk Lefevre</h1>
-<h2 align="center">A 4th-year CS student passionate about software development.</h2>
+<h2 align="center">A recently graduated AI/ML Engineer passionate about damn near everything I touch.</h2>
 <p>As a lifelong enthusiast of technology, my passion for software development has been a driving force in my journey. I thrive on continuous learning and growth, evident in the multitude of personal programming projects I've undertaken over the years. With expertise spanning front-end technologies like HTML/CSS, JavaScript, to back-end languages including Java, Python, C, and C#, I bring a versatile skillset honed through hands-on experience. Now, I'm eager to leverage my knowledge and abilities in a dynamic workspace, contributing to impactful projects and furthering my professional development in the field of software engineering.</p>
 <!-- <hr> -->
 
