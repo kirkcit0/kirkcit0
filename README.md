@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **A myriad of frameworks and tools.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](kirklefevre.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.kirklefevre.com/)
 
 - 💬 Ask me about **React, Flutter, or Java**
 
